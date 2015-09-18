@@ -7,7 +7,7 @@
 A JavaScript app that allows the ordering of a pizza. 
 
 ## A live working version of this javascript app can be found and used here: 
-`http://pizzacat.bitballoon.com`
+`http://pizzamatrix.bitballoon.com`
 Now with different sizes to choose from! Woah!
 ## Tests
 

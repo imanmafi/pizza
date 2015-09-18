@@ -7,8 +7,8 @@
 A JavaScript app that allows the ordering of a pizza. 
 
 ## A live working version of this javascript app can be found and used here: 
-`http://tictactoebro.bitballoon.com`
-Now with different sizes to choose from! Woah bro!
+`http://pizzacat.bitballoon.com`
+Now with different sizes to choose from! Woah!
 ## Tests
 
 Testing the Javascript methods and specs can be done through Mocha, Chai, Latte, Espresso or even regular coffee.

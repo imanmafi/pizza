@@ -17,7 +17,9 @@ html {
 }
 body {
   margin: 0;
-  background-image: ('http://i.imgur.com/92gHA9G.jpg')
+  background-image: ['http://i.imgur.com/92gHA9G.jpg']
+  background-color: red;
+  
 }
 article,
 aside,
